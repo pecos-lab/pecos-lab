@@ -19,26 +19,10 @@ Android 앱을 만드는 개발자입니다.
 
 <br/>
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=pecos-lab&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecos-lab&layout=compact&theme=default&hide_border=true" height="150"/>
-
-<br/>
-
-## 📈 Commit Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pecos-lab&theme=minimal&hide_border=true&area=true" width="100%"/>
-
-<br/>
-
 ## 🗂 Projects
 
 | 프로젝트 | 설명 | 기술 |
 |---------|------|------|
 | [📝 Memozy](https://github.com/pecos-lab/memozy) | 심플하고 빠른 메모 앱 | Kotlin · Compose · Room |
-
-<br/>
-
 
 </div>
