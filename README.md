@@ -13,12 +13,4 @@ Android 앱을 만드는 개발자입니다.
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
-<br/>
-
-## 🗂 Projects
-
-| 프로젝트 | 설명 | 기술 |
-|---------|------|------|
-| [📝 Memozy](https://github.com/pecos-lab/memozy) | 심플하고 빠른 메모 앱 | Kotlin · Compose · Room |
-
 </div>
