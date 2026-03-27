@@ -12,10 +12,6 @@ Android 앱을 만드는 개발자입니다.
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Room](https://img.shields.io/badge/Room-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Hilt](https://img.shields.io/badge/Hilt-FF6F00?style=flat-square&logo=google&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 <br/>
 
