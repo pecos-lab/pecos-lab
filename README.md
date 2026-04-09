@@ -47,27 +47,6 @@
 
 ---
 
-## 🚀 Projects
-
-| 프로젝트 | 설명 |
-|---------|------|
-| [memozy](https://github.com/pecos-lab/memozy) | 📝 현재 개발 중인 메인 프로젝트 |
-| [Stilo](https://github.com/pecos-lab/Stilo-privacy) | ✨ 스타일 앱 |
-| [Portfolio](https://pecos-lab.github.io) | 🌐 pecos-lab.github.io |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pecos-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecos-lab&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 <div align="center">
 
 [![Email](https://img.shields.io/badge/pecos6246@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pecos6246@gmail.com)
