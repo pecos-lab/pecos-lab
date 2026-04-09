@@ -10,11 +10,8 @@
 
 ### 만드는 사람이 팔 줄도 안다면?
 
-릴스 마케팅으로 **월매출 억 가까이** 찍어봤습니다.  
-그걸 알고 나서 깨달았어요 —  
-*진짜 하고 싶은 건, 내 제품을 직접 만들고 직접 파는 것.*
-
-지금은 그걸 하고 있습니다.
+**₩100M+** — 릴스 하나로 만든 숫자입니다.  
+이제는 그 제품도 직접 만듭니다.
 
 </div>
 
@@ -41,8 +38,8 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 
 </div>
 
