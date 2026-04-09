@@ -1,16 +1,78 @@
 <div align="center">
 
-# 안녕하세요, pecos입니다 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kyutae%20Lee&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=38&desc=I%20build%20what%20I%20sell.&descAlignY=58&descSize=24" />
 
-Android 앱을 만드는 개발자입니다.
-깔끔한 코드와 좋은 사용자 경험을 추구합니다.
+</div>
 
-<br/>
+---
+
+<div align="center">
+
+### 만드는 사람이 팔 줄도 안다면?
+
+릴스 마케팅으로 **월매출 억 가까이** 찍어봤습니다.  
+그걸 알고 나서 깨달았어요 —  
+*진짜 하고 싶은 건, 내 제품을 직접 만들고 직접 파는 것.*
+
+지금은 그걸 하고 있습니다.
+
+</div>
+
+---
+
+## 🧠 나는 이런 사람입니다
+
+```
+📣  콘텐츠 마케터 출신    —  릴스로 실제 매출을 만들어본 경험
+🛠  Android 개발자        —  Kotlin · Jetpack Compose
+🤖  AI-Native 개발        —  아이디어에서 프로토타입까지 빠르게
+🎯  지금 하는 일          —  홍보할 내 제품을 직접 만드는 중
+```
+
+> 마케팅을 알고 만드는 개발자.  
+> 개발을 알고 파는 마케터.
+
+---
 
 ## 🛠 Tech Stack
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+| 프로젝트 | 설명 |
+|---------|------|
+| [memozy](https://github.com/pecos-lab/memozy) | 📝 현재 개발 중인 메인 프로젝트 |
+| [Stilo](https://github.com/pecos-lab/Stilo-privacy) | ✨ 스타일 앱 |
+| [Portfolio](https://pecos-lab.github.io) | 🌐 pecos-lab.github.io |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pecos-lab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pecos-lab&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/pecos6246@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pecos6246@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
